@@ -1,0 +1,23 @@
+{
+  "name": "robo-acessa-sites",
+  "version": "1.0.0",
+  "description": "bot projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrianoSz/robo-acessa-sites.git"
+  },
+  "author": "drianodev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrianoSz/robo-acessa-sites/issues"
+  },
+  "homepage": "https://github.com/DrianoSz/robo-acessa-sites#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
